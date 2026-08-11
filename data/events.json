@@ -1,292 +1,71 @@
 {
-  "updated_at": "2026-08-10T06:05:46.844260Z",
-  "count": 320,
+  "updated_at": "2026-08-11T05:45:46.172620Z",
+  "count": 342,
   "events": [
     {
-      "id": "stuttgart-official:d76a67c34ac3e47b",
+      "id": "stuttgart-official:0687cf4264281ef3",
       "source": "stuttgart-official",
       "title": "„Die doppelte Lücke“",
-      "start": "2026-08-10T06:00:00+02:00",
+      "start": "2026-08-11T06:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/-die-doppelte-luecke-505281?p=sig%3AGtY7S2nuQeJPd4pL%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C430898",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Rauminstallation und Medienstation im Stuttgarter Rathaus.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:ed2149f5399ccfcd",
+      "id": "stuttgart-official:1906dcdbe9955d74",
       "source": "stuttgart-official",
       "title": "Diplomausstellung Freie Kunstschule Stuttgart e.V",
-      "start": "2026-08-10T06:00:00+02:00",
+      "start": "2026-08-11T06:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/diplomausstellung-freie-kunstschule-stuttgart-e.v-529530?p=sig%3AK4ALvuAg_9CjnlzT%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484386",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Absolventinnen Louise Ronja Griesinger-Talles, Annette Pfannenschwarz und Yuliia Shaynikova präsentieren Werke ihrer Diplomarbeiten.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:840e973da12cf72f",
+      "id": "stuttgart-official:d5e6f4a4cbb6baa9",
       "source": "stuttgart-official",
       "title": "RAW & MESSY",
-      "start": "2026-08-10T06:00:00+02:00",
+      "start": "2026-08-11T06:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/raw-messy-529531?p=sig%3AaAU3fh4X9eGn-Zvp%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484387",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Studierende der Merz Akademie stellen fotografische Arbeiten aus dem Semesterprojekt RAW & MESSY aus.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:c5762a38e7b9f88d",
+      "id": "stuttgart-official:390abac8f5282333",
       "source": "stuttgart-official",
       "title": "Quatsch Kinder Club",
-      "start": "2026-08-10T07:00:00+02:00",
+      "start": "2026-08-11T07:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/quatsch-kinder-club-517337?p=sig%3AG7iYmWAL3SyljOPX%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C442158",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Beim Quatsch Kinder Club geht es um spielerische Improvisation, Kreativität, Gruppengefühl, Ausdruckskraft und Bewegung. Eine Veranstaltung für Kinder ab 8 Jahre ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:c1cbc8c097167bfe",
+      "id": "stuttgart-official:02d5b99b75e41498",
       "source": "stuttgart-official",
       "title": "SommerCamp Tanz 10–13 Jahre",
-      "start": "2026-08-10T07:00:00+02:00",
+      "start": "2026-08-11T07:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/sommercamp-tanz-10-13-jahre-498192?p=sig%3Ar92L-WZV36TQJEkW%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C425165",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit Tathea auf der Bühne. Der perfekte Kurs für Kinder, die gerne tanzen und im Rampenlicht stehen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:36063ab73531b8ad",
-      "source": "stuttgart-official",
-      "title": "Weltenverschiebungen",
-      "start": "2026-08-10T07:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/weltenverschiebungen-528341?p=sig%3AQEtyY6cUveThm-CI%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C483254",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Ausstellung von Kilian Kretschmer, Monica Menez, Stephen Obermeier, AIDEN (Clair Bötschi) in der Stadtbibliothek am Mailänder Platz Galerie b.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:c9c682386074a3ba",
-      "source": "stuttgart-official",
-      "title": "Stuttgart am Meer",
-      "start": "2026-08-10T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/stuttgart-am-meer-531477?p=sig%3AKcAt6UYUANfvARzI%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486841",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Das Sommerfestival Stuttgart am Meer lädt die Stuttgarter und Stuttgarterinnen jedes Jahr aufs Neue dazu ein, den urbanen Raum unserer Innenstadt neu zu erleben. ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:fbe2a7ab9f0c1398",
-      "source": "stuttgart-official",
-      "title": "Fragt uns doch mal! Jüdische Perspektiven auf Antisemitismus",
-      "start": "2026-08-10T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fragt-uns-doch-mal-juedische-perspektiven-auf-antisemitismus-519031?p=sig%3Ak7EslJYoiBdZJPCv%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C444077",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Ausstellungsintervention im Haus der Geschichte zeigt: Antisemitismus geht uns alle an. Die Intervention ist vom 8. Februar bis zum 6. September 2026 zu sehen. Der ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:13494a3def017b73",
-      "source": "stuttgart-official",
-      "title": "Museum Hegel-Haus - Dauerausstellung",
-      "start": "2026-08-10T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/museum-hegel-haus-dauerausstellung-43625?p=sig%3A-zWy3TU7lgAdbDqC%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C123351",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Zum 250. Geburtstag von Hegel am 27. August 2020 wurde nach umfangreichen Sanierungsarbeiten das Museum Hegel-Haus wiedereröffnet - mit einer neuen Dauerausstellung, ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:42b305404c1ee51b",
-      "source": "stuttgart-official",
-      "title": "Fotoausstellung Valentin Goppel \"BLESS THIS COUCH\"",
-      "start": "2026-08-10T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fotoausstellung-valentin-goppel-bless-this-couch-530538?p=sig%3A3d8bezZc1DmXslpa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485984",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Leica Galerie Stuttgart stellt vom 18.07.26 bis 10.10.26 Arbeiten des Fotografen Valentin Goppel aus.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:5f94cf3c19dd6873",
-      "source": "stuttgart-official",
-      "title": "Mittagsgebet in der Stiftskirche",
-      "start": "2026-08-10T10:15:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/mittagsgebet-in-der-stiftskirche-531087?p=sig%3Ax8Bpcdpa7z_0izp-%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487022",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Orgel: Martina Branke",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:7c482368ab2ad8c7",
-      "source": "stuttgart-official",
-      "title": "Digital im Alter - Fit für das Internet",
-      "start": "2026-08-10T12:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/digital-im-alter-fit-fuer-das-internet-473539?p=sig%3AOY4-qcdQRvRrUrzn%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C398082",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Stadtteilbibliothek Neugereut bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:b97cbc8e631ba0ae",
-      "source": "stuttgart-official",
-      "title": "Zucker-Zeit im Kessel: Ernährung bei Diabetes",
-      "start": "2026-08-10T14:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/zucker-zeit-im-kessel-ernaehrung-bei-diabetes-531140?p=sig%3Agcvm8pckR3Ton2Nm%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486587",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Für viele Menschen ist Diabetes mellitus Teil des Alltags - entweder selbst, als betroffene Person oder als Angehöriger. In den Impulsvorträgen erhalten Sie ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:d0492a36e47f3892",
-      "source": "stuttgart-official",
-      "title": "Beichte",
-      "start": "2026-08-10T14:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/beichte-530420?p=sig%3Axe3FN6N_M1WiLGWf%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485631",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:dc7675a6aeb74cbc",
-      "source": "stuttgart-official",
-      "title": "Rosenkranz",
-      "start": "2026-08-10T15:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/rosenkranz-530480?p=sig%3Ag0U_mywdt_3evD6J%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485878",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:4c6dbced5f402e8b",
-      "source": "stuttgart-official",
-      "title": "Werktagsgottesdienst am Abend",
-      "start": "2026-08-10T16:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/werktagsgottesdienst-am-abend-530421?p=sig%3AFBfqM_nkN9sMH1c7%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485632",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:15ec5e5d417d1db5",
-      "source": "stuttgart-official",
-      "title": "Eucharistie",
-      "start": "2026-08-10T16:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistie-531236?p=sig%3AUjGryLAS253sNPz2%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486568",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:7ecfa0d6fa1ac08e",
-      "source": "stuttgart-official",
-      "title": "Lateinische Messe",
-      "start": "2026-08-10T16:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/lateinische-messe-529740?p=sig%3A8KOUQUo-DuVAJU8O%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484585",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Weitere Werktagsmessen und Beichtgelegenheiten, gerne auch auf Anfrage, finden Sie unter: Tel.: 0711 9827791;stuttgart.petrusbruderschaft.de",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:5963988d6ea91b85",
-      "source": "stuttgart-official",
-      "title": "Infoveranstaltung zur Asiatischen Tigermücke",
-      "start": "2026-08-10T17:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/infoveranstaltung-zur-asiatischen-tigermuecke-497588?p=sig%3ANze_7J98UlJS1tmH%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C424648",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Infoveranstaltung wird von der vom Gesundheitsamt beauftragten Fachfirma als Online-Termin jeden zweiten Montag von Juni bis September ab 19 Uhr angeboten. Nach ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:9ec12c2e0bbbfb60",
-      "source": "stuttgart-official",
-      "title": "Welcome Club",
-      "start": "2026-08-10T17:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/welcome-club-436662?p=sig%3AOScuNy_8vrv5JQsO%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C313688",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Welcome Club bringt monatlich junge Menschen in Stuttgart zusammen. Jeden Monat gibt es ein neues und spannendes Thema, auf das man sich freuen kann.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:b4025b56ebc2e818",
-      "source": "stuttgart-official",
-      "title": "Ökumenisches Friedensgebet",
-      "start": "2026-08-10T17:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/oekumenisches-friedensgebet-529649?p=sig%3AT0J51Lmd0rD-KXlE%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484510",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Ökumenisches Friedensgebet in St. Elisabeth",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:07c2225bcc310c9b",
-      "source": "stuttgart-official",
-      "title": "KOFFER.GESCHICHTEN – Das östliche Europa in Stuttgart",
-      "start": "2026-08-10T22:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/koffer.geschichten-das-oestliche-europa-in-stuttgart-527473?p=sig%3ApmKl_zBUEbw_QkxT%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C482205",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Man stelle sich vor, man müsste die Heimat verlassen und hätte nur einen Koffer: Was würde man einpacken? Einfache Koffer werden in narrative Objekte gestaltet.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:8fac3c0a08b82d87",
@@ -299,7 +78,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Mercedes-Benz Museum in Stuttgart ist weltweit der einzige Ort, der die Innovationen über 130 Jahren Automobilgeschichte zeigt - sowie die neuesten Entwicklungen ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:20e2cefcca54d856",
@@ -312,7 +91,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Porsche Museum ist die Visitenkarte der Marke Porsche am Porscheplatz. Hier schlägt seit mehr als 60 Jahren das Herz von Porsche.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a18ca1734b28aef3",
@@ -325,7 +104,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das 1981 bis 1985 erbaute \"Museum am Löwentor\" zeigt Funde aus der Vorzeit Südwestdeutschlands.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:49a6f2396fe8ac5d",
@@ -338,7 +117,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Natur begegnet Kultur: Das mitten im Park gelegene Schloss Rosenstein ist Sitz der biologischen Ausstellung des Staatlichen Museums für Naturkunde Stuttgart.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:8d3e749e643bc753",
+      "source": "stuttgart-official",
+      "title": "Weltenverschiebungen",
+      "start": "2026-08-11T07:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/weltenverschiebungen-528341?p=sig%3AQEtyY6cUveThm-CI%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C483254",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Ausstellung von Kilian Kretschmer, Monica Menez, Stephen Obermeier, AIDEN (Clair Bötschi) in der Stadtbibliothek am Mailänder Platz Galerie b.",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:da07349a09fbd321",
@@ -351,7 +143,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:bcb816534ca297a0",
@@ -364,7 +156,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationales Tanzsportfestival.\nDie German Open Championships (GOC) sind die größte Tanzsportveranstaltung Europas im Amateurbereich, sowohl was die ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:8ff5ff69efaf83b4",
+      "source": "stuttgart-official",
+      "title": "Stuttgart am Meer",
+      "start": "2026-08-11T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/stuttgart-am-meer-531477?p=sig%3AKcAt6UYUANfvARzI%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486841",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Das Sommerfestival Stuttgart am Meer lädt die Stuttgarter und Stuttgarterinnen jedes Jahr aufs Neue dazu ein, den urbanen Raum unserer Innenstadt neu zu erleben. ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c3df6dd32f79468a",
@@ -377,7 +182,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das StadtPalais erzählt erstmals die Geschichte des Balletts von John Cranko bis zur Gegenwart in einer großen Sonderausstellung.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:530f9931e5a749ca",
+      "source": "stuttgart-official",
+      "title": "Fragt uns doch mal! Jüdische Perspektiven auf Antisemitismus",
+      "start": "2026-08-11T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fragt-uns-doch-mal-juedische-perspektiven-auf-antisemitismus-519031?p=sig%3Ak7EslJYoiBdZJPCv%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C444077",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die Ausstellungsintervention im Haus der Geschichte zeigt: Antisemitismus geht uns alle an. Die Intervention ist vom 8. Februar bis zum 6. September 2026 zu sehen. Der ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c9558980359d6f0a",
@@ -390,7 +208,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Fotografien. Retusche. Deepfakes.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:58a127c26dd47b1e",
@@ -403,7 +221,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In aufwendig inszenierten Räumen wird Landesgeschichte lebendig. Die 1500 originalen Ausstellungsstücke machen deutlich, wie sich große Geschichte im Kleinen ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d24327510ba4ce3a",
@@ -416,7 +234,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Linden-Museum Stuttgart ist eines der großen Völkerkundemuseen Europas und lädt ein zu einer Weltreise unter einem Dach.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:0ebff94230bac1a9",
+      "source": "stuttgart-official",
+      "title": "Museum Hegel-Haus - Dauerausstellung",
+      "start": "2026-08-11T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/museum-hegel-haus-dauerausstellung-43625?p=sig%3A-zWy3TU7lgAdbDqC%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C123351",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Zum 250. Geburtstag von Hegel am 27. August 2020 wurde nach umfangreichen Sanierungsarbeiten das Museum Hegel-Haus wiedereröffnet - mit einer neuen Dauerausstellung, ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0fbfb65998784b7e",
@@ -429,7 +260,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "BIG TINGS - Reggae, Soundsystems und die Stuttgart Massive erzählt die Geschichte von Reggae als globaler Kultur und Stuttgarts einzigartiger Szene. Mit Fotografien, ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:498ab3bd0e4142d1",
@@ -442,7 +273,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die ständige Ausstellung \"Stuttgarter Stadtgeschichten\" im StadtPalais beleuchtet die städtische Geschichte seit Ende des 18. Jahrhunderts bis in die Gegenwart aus ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c52b896957c50231",
@@ -455,7 +286,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theodor-Heuss-Haus ist ein authentischer Ort der deutschen Demokratiegeschichte und Wohnhaus des ersten Bundespräsidenten.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:0dfcfe658a9b9797",
+      "source": "stuttgart-official",
+      "title": "Fotoausstellung Valentin Goppel \"BLESS THIS COUCH\"",
+      "start": "2026-08-11T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fotoausstellung-valentin-goppel-bless-this-couch-530538?p=sig%3A3d8bezZc1DmXslpa%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485984",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die Leica Galerie Stuttgart stellt vom 18.07.26 bis 10.10.26 Arbeiten des Fotografen Valentin Goppel aus.",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1a4226aa95a27181",
@@ -468,7 +312,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Staatsgalerie Stuttgart gehört mit ihrem reichen Bestand an Gemälden und Plastiken vom 14. bis 20. Jahrhundert zu den meistbesuchten Museen Deutschlands, ihr ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1292e8c8250cc01f",
@@ -481,7 +325,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Feuerbach bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0af958e1ba49b01a",
@@ -494,7 +338,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die beliebte Kindershow des Planetariums ist eine liebevolle und unterhaltsame Entdeckungsreise für Jung und Alt.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:43c8195355ddb27a",
@@ -507,7 +351,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Doppelhaus von Le Corbusier, einem der einflussreichsten Architekten des 20. Jahrhunderts, macht die ästhetischen, sozialen und technischen Umbrüche der Moderne ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:cbf6df787ce255ac",
@@ -520,20 +364,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der Kindershow des Planetariums gelangen drei Kinder auf wundersame Weise in die Raumstation Observer und reisen durchs All.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:08a241ed20974ae8",
-      "source": "stuttgart-official",
-      "title": "Werktagsgottesdienst am Mittag",
-      "start": "2026-08-11T10:15:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/werktagsgottesdienst-am-mittag-530418?p=sig%3ATH15zMeh5LrUM8q4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485633",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:87af9fe267c40452",
@@ -546,7 +377,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stuttgarts größtes Stadtentwicklungsprojekt entdecken – das geht in der Dauerausstellung Stuttgart Rosenstein.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:af88f3dff7e32ce7",
@@ -559,7 +390,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dieser Veranstaltung setzen wir die Illusionsmaschine des Planetariums ein, um die Planeten zu besuchen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:300394f7db59aa29",
@@ -572,7 +403,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe: Bilderbuchshow in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:00804fd54030b1b4",
@@ -585,7 +416,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Weilimdorf bietet regelmäßige Einzelsprechstunden an, die von bürgerschaftlich Engagierten, sogenannten Digital-Helfenden durchgeführt werden.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f01c0c8b6a440a20",
@@ -598,7 +429,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:82e83f22aecdf9f7",
@@ -611,7 +442,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die AnStifter laden Menschen ab 14 Jahren ein zum Workshop mit Corinna Walz ins Stadtteilhaus Hallschlag.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e586902b71331e3d",
@@ -624,7 +455,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:31b607070620a980",
@@ -637,7 +468,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:bc4921dc60488cf8",
@@ -650,20 +481,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:bfa52f7b1de0c9df",
+      "id": "stuttgart-official:37bc9df7bf052385",
       "source": "stuttgart-official",
-      "title": "Wortgottesfeier in St. Fidelis",
-      "start": "2026-08-11T16:00:00+02:00",
+      "title": "Eucharistie",
+      "start": "2026-08-11T16:30:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wortgottesfeier-in-st.fidelis-529640?p=sig%3A8IyGay24g_zTWl7N%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484505",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistie-532360?p=sig%3Ae3j0L8EfVN0_23F3%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488068",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
-      "description": "Wortgottesdienst mit Kommunion",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0b8757c86ca7fcbc",
@@ -676,7 +507,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f129a6f1d474e5e0",
@@ -689,7 +520,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c3214cdd8ddf757e",
@@ -702,7 +533,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem Onlinevortrag lernen Sie, die Angst Ihres Kindes zu verstehen und erfahren, wie Sie Ihr Kind stärken können.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b64124e5346791e7",
@@ -715,7 +546,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In Bewegung bleiben und mit anderen Menschen aus dem Bezirk Weilimdorf in Kontakt kommen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4277bc5aedcaca94",
@@ -728,7 +559,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gemeinsam spazieren wir durch den Stuttgarter Norden. Veranstalter ist das Familienzentrum St. Franziskus. Wir freuen uns über Senioren, Familien, Mütter mit Kinder ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4ebd03c147f79fd0",
@@ -741,20 +572,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:144c01d311d05fc0",
-      "source": "stuttgart-official",
-      "title": "Eucharistiefeier am Mittwoch",
-      "start": "2026-08-12T07:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-mittwoch-531650?p=sig%3ABI6KeP1my3tZ2ZJs%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487081",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4e796c548db5d7f9",
@@ -767,7 +585,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Historische Ereignisse und lokale Stadtgeschichte.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6ee2ed57452b3aa5",
@@ -780,7 +598,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die spektakuläre Sternenreise",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0c2174279603f765",
@@ -793,7 +611,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Isabel Schmier präsentiert sommerliche Gedichte von Hermann Hesse und weiteren Dichterinnen und Dichtern.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:474e2a297434dc25",
@@ -806,7 +624,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gibt es Leben im All?\nWohl keine andere Frage, die wir über das Universum stellen, beschäftigt uns so stark.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4a49a629e6d92539",
@@ -819,7 +637,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0285a0e8cc7117c0",
@@ -832,7 +650,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Mit den Grundelementen der darstellenden Kunst wird auf spielerische Art ein Bewusstsein für sich und die Anderen entwickelt.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0044d75d2a091321",
@@ -845,7 +663,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:84b55d84847b1dd6",
@@ -858,7 +676,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0491896f2acb8280",
@@ -871,7 +689,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f0f871b8fc42e677",
@@ -884,7 +702,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:97f7b6d2b677d890",
@@ -897,7 +715,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gelesen von Rudolf Guckelsberger in der Reihe Jahreszeitenlesung",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e19dde60db0eebc4",
@@ -910,7 +728,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dieser vom Planetarium Stuttgart erweiterten Fassung der international preisgekrönten Fulldome-Show „Explore!“ erleben Sie einen beeindruckend naturgetreu ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6dae5c2942b90a8f",
@@ -923,7 +741,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Sonnenfinsternis am 12. August kann ab 19 Uhr live auf der Sternwarte Uhlandshöhe beobachtet werden. Der Eintritt ist frei.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d1d93a446aac1f1c",
@@ -936,7 +754,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "I Kissed A Girl - Staffel 2 bringt zehn Single-FLINTA*s in einer traumhaften italienischen Masseria zusammen - und das Kennenlernen beginnt direkt mit einem Kuss. ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3ff1c440280cb985",
@@ -949,7 +767,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine energiegeladene Mischung aus Kabarett, Comedy, Chanson und Travestie: Wommy räumt auf – im Kopf, im Herzen und in der Rumpelkammer der Gefühle. Mit bissigen ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c38a6e999d35155b",
@@ -962,7 +780,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7937c39e621357cc",
@@ -975,7 +793,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:93ef9fc21d3d1db4",
+      "source": "stuttgart-official",
+      "title": "Fatimagottesdienst",
+      "start": "2026-08-13T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/fatimagottesdienst-532351?p=sig%3A7ntD8mC0covZk20l%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488060",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ece2d6210b44e017",
@@ -988,7 +819,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem kostenlosen Eltern-Baby-Kurs geht es rund um die Themen, die junge Eltern in den ersten Monaten beschäftigen. Der Kurs findet sechs Mal am Marienplatz 3 in ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:54fe293c40f1c214",
@@ -1001,7 +832,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne präsentiert im Höhenpark Killesberg in Stuttgart das Figurentheater „Was macht die Maus im Wichtelhaus“. Im kleinen Wichteldorf ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7faae2fde5111929",
@@ -1014,7 +845,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Öffentliche Führung für Eltern mit Babys im Haus der Geschichte",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:92d329a65d2b8960",
@@ -1027,7 +858,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Offener Treff für alle, die Lust und Zeit haben - einfach in der Stadtteilbibliothek Weilimdorf vorbeikommen!",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:758742a430d824f4",
@@ -1040,7 +871,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die kleine, wissbegierige Maus Armstrong ist fasziniert vom Weltraum, besonders vom Mond. Bei klarer Nacht beobachtet Armstrong ihn mit seinem kleinen Fernrohr und ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:03bdcd3663db6754",
@@ -1053,7 +884,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Spielplatz. Innenstadt. Abenteuer. Das große Sommerbasteln in der Spielplatz Werkstatt. Kreative Ferien für kleine Entdecker.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:04a846afb09dde3b",
@@ -1066,7 +897,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesestunde für Erwachsene in der Stadtteilbibliothek Untertürkheim.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3d8eb98dbb975d3d",
@@ -1079,7 +910,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek West bietet jede Woche in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:af937e57f7c0e03e",
@@ -1092,7 +923,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sonnenfänger-DIY & Buch in einer Streichholzschachtel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ea117acf63074046",
@@ -1105,7 +936,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Sommer bietet mit seinen warmen Nächten eine gute Gelegenheit zum \"Spaziergang am Himmelszelt\". In dieser Vorführung wird der Sternenprojektor genutzt und die ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:640d44b8a6ffdea0",
@@ -1118,20 +949,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:51404c2976970bd4",
-      "source": "stuttgart-official",
-      "title": "Eucharistische Anbetung und Rosenkranz in St. Elisabeth",
-      "start": "2026-08-13T15:50:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistische-anbetung-und-rosenkranz-in-st.elisabeth-529650?p=sig%3A_3Q1u027Jt_l_BQr%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484511",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Eucharistische Anbetung und Rosenkranz",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2e2b75aab0789f6d",
@@ -1144,7 +962,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Donnerstags ist Open Dance Session Tag! Jeden Donnerstag findet von 19:30 Uhr bis 22 Uhr im Saal Marie des StadtPalais ein offenes Tanztraining (kein Tanzunterricht) ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7a8fb6b0d64e1a8b",
@@ -1157,7 +975,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sechs Konzerte. Drei Abende. Ein Festival voller Leidenschaft. \nZum neunten Mal vereint „Stuttgart Mi Amor“ die Welten von Latin und Jazz und feiert das, was uns ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:68f7b285d575d26b",
@@ -1170,7 +988,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:64f95409fb7ddcd5",
@@ -1183,7 +1001,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1180ca825bd3a445",
@@ -1196,7 +1014,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Kindershow im Planetarium Stuttgart.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5a61509a6e182579",
@@ -1209,7 +1027,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Am 28. Juni 2025 trat das Barrierefreiheitsstärkungsgesetz in Kraft und viele Websites müssen barrierefrei sein, sonst drohen Abmahnungen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d30e827e59b3e023",
@@ -1222,7 +1040,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Konzert mit Hans Fickelscher (perc, voc) und Mazen Mohsen (git, voc, oud)",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6b903b2f7a429949",
@@ -1235,7 +1053,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In dem Kurs in der Stadtteilbibliothek Neugereut wird erklärt wie das Internet und die Benutzer-PCs der Stadtbibliothek funktionieren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f763ae9efe9cd042",
@@ -1248,7 +1066,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Galerie Bovistra in Stuttgart präsentiert ab Juli Arbeiten des Künstlers Dirk Uhde aus Villingen im Schwarzwald.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:434765146ceef901",
@@ -1261,7 +1079,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:40ae91fda56af401",
@@ -1274,7 +1092,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie haben Interesse an einer Solaranlage? Die SolarScouts Stuttgart zeigen Ihnen den Weg zu Ihrer eigenen PV-Anlage auf und beantworten Ihre Fragen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:14e9c0580b17230a",
@@ -1287,7 +1105,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vom 24.07. bis 14.08. erwartet euch jeden Freitagabend ein wechselndes Menü. An zwei Abenden laden wir Gäste aus der Stuttgarter Food-Szene ein, an den beiden ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:700bcaa8836621c1",
@@ -1300,7 +1118,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gemeinsam mit Vroni erwartet Euch eine bunte Tomatenverkostung mit außergewöhnlichen Sorten, spannender Saatgutbörse und jede Menge Wissensaustausch rund um den ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:366067c476b19b35",
+      "source": "stuttgart-official",
+      "title": "Gottesdienst",
+      "start": "2026-08-14T14:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/gottesdienst-532346?p=sig%3AM4VyJy2e6kQFFcML%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488055",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ed726427f8bc5d8a",
@@ -1313,7 +1144,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie haben Interesse an einer Solaranlage? Die SolarScouts Stuttgart zeigen Ihnen den Weg zu Ihrer eigenen PV-Anlage auf und beantworten Ihre Fragen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9c24ddd51ff2a4ee",
@@ -1326,7 +1157,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "NO SPORTS spielen live im Wirtshaus Ratze in Stuttgart-Ost.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:49f92da1c7d50f62",
@@ -1339,7 +1170,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ee2324ff2ec7b824",
@@ -1352,20 +1183,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Regelmäßiger Spieletreff",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:8e053e6bc143de67",
+      "id": "stuttgart-official:69046058e3e34422",
       "source": "stuttgart-official",
       "title": "Eucharistiefeier am Vorabend Mariä Himmelfahrt mit Kräutersegnung, anschl. Komplet",
       "start": "2026-08-14T16:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-vorabend-mari-himmelfahrt-mit-kr-utersegnung-anschl.komplet-530736?p=sig%3AmjhBlfwS8JFysVWu%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486065",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-vorabend-mariae-himmelfahrt-mit-kraeutersegnung-anschl.komplet-530736?p=sig%3AmjhBlfwS8JFysVWu%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486065",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:be3ad04b11bf1b9b",
@@ -1378,7 +1209,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "eventuell eine Wort-Gottes-Dienst-Feier;",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:67138c64f4c827fa",
@@ -1391,7 +1222,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4ed3b2a900d2a139",
@@ -1404,7 +1235,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3476e51508bef52f",
@@ -1417,7 +1248,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:990431b12e64dd96",
@@ -1430,7 +1261,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c63a54a601cd39aa",
@@ -1443,7 +1274,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f60c2afd921c6852",
@@ -1456,7 +1287,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikshow des Planetariums Stuttgart.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1dfc937b8c87f426",
@@ -1469,7 +1300,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Schwoof über Gaisburg von und im Waldheim Gaisburg e.V. - Tanzen für alle über den Dächern von Gaisburg.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:95706e211fad0503",
@@ -1482,7 +1313,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c04a35588d9ce5e8",
@@ -1495,7 +1326,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Bei der 7. Auflage des Turniers werden sechs Frauen- und Herrenteams spielen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2a8ca5eaafdd2dcc",
@@ -1508,20 +1339,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Anmeldung zum Gottesdienst ist nicht mehr erforderlich.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:83c6766014127f8c",
+      "id": "stuttgart-official:b023da5e6ff1f5d4",
       "source": "stuttgart-official",
       "title": "Eucharistiefeier der kroatischen Gemeinde in St. Hedwig an Mariä Himmelfahrt",
       "start": "2026-08-15T08:30:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-der-kroatischen-gemeinde-in-st.hedwig-an-mari-himmelfahrt-529762?p=sig%3AOe3NWI78j0qKmtf4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484590",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-der-kroatischen-gemeinde-in-st.hedwig-an-mariae-himmelfahrt-529762?p=sig%3AOe3NWI78j0qKmtf4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484590",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:fa67259f90891fc1",
@@ -1534,7 +1365,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Pilates mit Ausblick - Balkon des StadtPalais\nSamstags vom 01.08. bis 13.09. heißt es: Matte ausrollen, Blick über die Stadt genießen. Morning oder Sweaty Session - ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:931233b79c34ce95",
@@ -1547,7 +1378,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f2c8dd6745b516e9",
@@ -1560,7 +1391,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:33602158ee65663a",
@@ -1573,33 +1404,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:e9920ea375dda9cf",
+      "id": "stuttgart-official:ab1296e4651fe2be",
       "source": "stuttgart-official",
       "title": "Eucharistiefeier mit Kräutersegnung",
       "start": "2026-08-15T09:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-mit-kr-utersegnung-530737?p=sig%3AHbOvqEe_RPkf3h5u%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486066",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-mit-kraeutersegnung-530737?p=sig%3AHbOvqEe_RPkf3h5u%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486066",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:b96631f7428e9276",
+      "id": "stuttgart-official:c6804a0f8074b5a5",
       "source": "stuttgart-official",
       "title": "Eucharistiefeier zu Mariä Himmelfahrt",
       "start": "2026-08-15T09:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-zu-mari-himmelfahrt-529074?p=sig%3AMsvOKnL9lVDbiZrs%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C483847",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-zu-mariae-himmelfahrt-529074?p=sig%3AMsvOKnL9lVDbiZrs%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C483847",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:521a45e033f0923a",
@@ -1612,7 +1443,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Organist:innen der Stiftsmusik stellen Ihnen ihren Arbeitsplatz auf der Orgelempore vor: die große Mühleisen-Orgel der Stiftskirche mit 81 Registern, 5.366 ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:05edfe6bddde8ac9",
@@ -1625,7 +1456,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b6562995f3be72a4",
@@ -1638,7 +1469,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein liebenswertes, sprechendes Astronomiebuch führt unsere zwei Hauptdarsteller und unsere Besucher in einem atemberaubenden Flug zu allen Planeten unseres ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:da5ccbc1c9b0db8f",
@@ -1651,7 +1482,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:8da8fb4b0189d101",
@@ -1664,7 +1495,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Pilates mit Ausblick - Balkon des StadtPalais\nSamstags vom 01.08. bis 13.09. heißt es: Matte ausrollen, Blick über die Stadt genießen. Morning oder Sweaty Session - ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a8f1c75581ffad72",
@@ -1677,7 +1508,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die AnStifter laden ein zu zwei Führungen durch die Ausstellung von und mit Dagmar Buntins in der Steigkirche.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7e5c71a42a812632",
@@ -1690,7 +1521,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Tauchen Sie in die erholsame Welt des Waldbadens ein und erleben Sie die Kraft der Natur!",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:57e7053b991cd890",
@@ -1703,7 +1534,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Reise in die Welt der Polarlichter beginnt in Stuttgart. Im Planetarium lernen wir die Sterne und Sternbilder eines winterlichen Abendhimmels kennen und ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a7d57c3d8c87c5b4",
@@ -1716,20 +1547,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikshow des Planetariums Stuttgart über das erfolgreichste Album der britischen Rockband Pink Floyd.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:95cc6e717ac77c2e",
+      "id": "stuttgart-official:3fa4c86893cd9a97",
       "source": "stuttgart-official",
       "title": "Eucharistie mit Kräuterweihe",
       "start": "2026-08-15T16:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistie-mit-kr-uterweihe-531240?p=sig%3AGAWWVmwbmifHA177%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486572",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistie-mit-kraeuterweihe-531240?p=sig%3AGAWWVmwbmifHA177%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486572",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:cc17ecb40c563b21",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-15T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532358?p=sig%3AMf2PtTz-0_r40nzS%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488066",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7e76fc03f36cb65f",
@@ -1742,7 +1586,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:778c2d9205a9268d",
@@ -1755,7 +1599,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f13d7ff4687e54a0",
@@ -1768,7 +1612,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4dd8bb902a401101",
@@ -1781,7 +1625,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Konzert, Jazz, Funk, Soul, KlangKlub e.V.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2b9d072d884d0b26",
@@ -1794,7 +1638,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:59854e89ee467585",
@@ -1807,7 +1651,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:471268489e8ab13e",
@@ -1820,7 +1664,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5b5549663de9b730",
@@ -1833,7 +1677,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:20f372e595f167e0",
+      "source": "stuttgart-official",
+      "title": "Eucharistie",
+      "start": "2026-08-16T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistie-531236?p=sig%3AUjGryLAS253sNPz2%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486568",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2f177389f4e42c96",
@@ -1846,7 +1703,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:20921fb6dee78863",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-16T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532337?p=sig%3AFPc45ikQjJPO3G-J%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488046",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:70ab71b14529580a",
@@ -1859,7 +1729,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:abdb799f61a7e126",
@@ -1872,7 +1742,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4601d070b51cc46d",
@@ -1885,7 +1755,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a6ac5124b329bbcb",
@@ -1898,20 +1768,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:83dd44349a3ff5c2",
-      "source": "stuttgart-official",
-      "title": "Salvator - So. Eucharistiefeier",
-      "start": "2026-08-16T07:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/salvator-so.eucharistiefeier-529932?p=sig%3ADrhaYT8_xJNaDUE4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484832",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:80b7fbd143066025",
@@ -1924,7 +1781,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:bae519e4702c41b9",
+      "source": "stuttgart-official",
+      "title": "Wortgottesfeier in St. Fidelis",
+      "start": "2026-08-16T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wortgottesfeier-in-st.fidelis-529640?p=sig%3A8IyGay24g_zTWl7N%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484505",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Wortgottesdienst mit Kommunion",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a7b6c95b5bb77a21",
@@ -1937,7 +1807,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Reise in die Vergangenheit der Stuttgarter Feuerwehr. Ausgestellt sind neben historischen Exponaten nahezu 30 Feuerwehrfahrzeuge, beginnend in den 1940 er Jahren ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6d10929b21acb617",
@@ -1950,20 +1820,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:008e81879c374fac",
-      "source": "stuttgart-official",
-      "title": "Sonntagsmesse",
-      "start": "2026-08-16T08:00:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/sonntagsmesse-530723?p=sig%3AhG3_Ngi0em2HnbKP%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486045",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9ea5853e56bb6558",
@@ -1976,7 +1833,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:75d1e491961e0b5b",
@@ -1989,7 +1846,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c6399634d367a833",
@@ -2002,7 +1859,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1363805353528ba0",
@@ -2015,7 +1872,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9d7bbe40f3008175",
@@ -2028,7 +1885,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier in der St. Thomas Kirche, Beichtemöglichkeit auf polnisch während der Messe",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:8209ab8d053e5d21",
@@ -2041,20 +1898,46 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:ebf794ad694cefff",
+      "id": "stuttgart-official:77b8c6af8d63d332",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-16T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532345?p=sig%3ABYhUe2i7AOU0oT8x%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488054",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:0c426a62cbbdb724",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-16T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532357?p=sig%3ARj0WfQorJQK74Fe4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488065",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:9df037e9c5fed12f",
       "source": "stuttgart-official",
       "title": "Eucharistiefeier am Sonntag",
       "start": "2026-08-16T09:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-sonntag-530426?p=sig%3AD9ZhS3S3uwnPJuiS%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485639",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-sonntag-532328?p=sig%3Ah0to3f-6QsFuOrn4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487998",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:24af482e81e23721",
@@ -2067,20 +1950,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:97732923dd23bccf",
+      "id": "stuttgart-official:52d17f80ecbf2adb",
       "source": "stuttgart-official",
-      "title": "Wortgottesdienst mit Kommunionfeier",
+      "title": "Wort-Gottes-Feier",
       "start": "2026-08-16T09:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wortgottesdienst-mit-kommunionfeier-531336?p=sig%3AdrUACVAdsVpoYPOY%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486681",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wort-gottes-feier-532336?p=sig%3AqIPreYZ8K4NZM7eL%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488045",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6b57baa46588cfb4",
@@ -2093,7 +1976,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Herzlich Wilkommen in der St. Christophorus Kirche. Ab dem 18. Februar sind wir auch in Stuttgart Wangen jeden Sonntag bis auf weiters anwesend. Eucharistiefeier ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c4fe107aa05df72f",
@@ -2106,7 +1989,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a6cdc6101f85e0e8",
@@ -2119,7 +2002,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1ee2985074012a08",
@@ -2132,7 +2015,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Möhringer Heimatmuseum wurde 1936 im Hauptgeschoss des 1469 erbauten Spitalhofes des Esslinger Katharinenhospitals eröffnet.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:80a97fa9c66f33c4",
@@ -2145,7 +2028,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In der historischen Zehntscheuer erzählt das Heimatmuseum die Geschichte der Stuttgarter Bezirke Plieningen und Birkach. Das Museum inszeniert sechs charakteristische ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ff8c7239576c12e7",
@@ -2158,7 +2041,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a7ac35432ceb20d3",
@@ -2171,7 +2054,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Drei exklusive Abende im Rahmen des Sommergastspiels: Wommy lädt befreundete Künstler*innen ein, die mit der laufenden Show nichts zu tun haben. Im Mittelpunkt ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5e6f1a9ea90e8ae6",
@@ -2184,7 +2067,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Drei exklusive Abende im Rahmen des Sommergastspiels: Wommy lädt befreundete Künstler*innen ein, die mit der laufenden Show nichts zu tun haben. Im Mittelpunkt ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4e0c8a3a909476ea",
@@ -2197,7 +2080,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Impossible Space nimmt Sie auf eine außergewöhnliche Reise durch den Kosmos – und darüber hinaus – mit.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:0227170f75c183e7",
+      "source": "stuttgart-official",
+      "title": "Abendsegen",
+      "start": "2026-08-16T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/abendsegen-532335?p=sig%3AVNDAWKnTx-Q4aPoh%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488044",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:460c0c4b877f9c21",
@@ -2210,7 +2106,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:192e91c4053ef6b9",
@@ -2223,7 +2119,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3ae3d710ae0e8ffc",
@@ -2236,7 +2132,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2aa401dbc34e55cf",
@@ -2249,7 +2145,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In 30 Minuten erhalten Sie in dieser Online-Infosession Einblick in das digitale Mentoringprojekt «Fit für Fünf» von KinderHelden, erfahren, wie Sie ein Kind der ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:53d6241cda26a049",
+      "source": "stuttgart-official",
+      "title": "Dienstagabendgottesdienst",
+      "start": "2026-08-18T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/dienstagabendgottesdienst-532338?p=sig%3AFEbQOEGtiVacUH4Q%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488047",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:cd67fc283a4ef1ad",
@@ -2262,7 +2171,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:fd493d79084927b1",
@@ -2275,7 +2184,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem Onlinevortrag lernen Sie, wie Sie Ihr Kind beim Abschied von der Windel begleiten und unterstützen können.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:efc6bd25a85bbe34",
@@ -2288,7 +2197,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe Bibliotheksgärten",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:30880b718b6b0512",
@@ -2301,7 +2210,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Theater in der Badewanne zeigt im Killesbergpark in Stuttgart das Figurentheater „Die Schildkröte hat Geburtstag“. Viele Tiere kommen zur Geburtstagsfeier – ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:57f41441609705b9",
@@ -2314,7 +2223,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das bekannte Märchen von der Suche nach dem Glück, vom Kater selbst erzählt.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f935e4ef9d73ffc4",
@@ -2327,7 +2236,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2271d9f462e697df",
@@ -2340,7 +2249,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Neckarinsel e.V. lädt zum „Public Grill“ auf die Neckarinsel in Stuttgart, Bad-Cannstatt ein. Am 19. August ab 18 Uhr wird gemeinsam gegrillt, gegessen und ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d0771cd60c2023f9",
@@ -2353,7 +2262,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d2ab6795193e997e",
@@ -2366,7 +2275,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Planetarium wird zur Zeitmaschine.\nWie ist das Weltall entstanden? Was hat sich auf der Erde abgespielt?\nAuf dieser Zeitreise werden die Zuschauer Zeuge der Geburt ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6e9119576ff6eca3",
@@ -2379,7 +2288,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1fb6902fc90a50a2",
@@ -2392,7 +2301,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Stadtteilbibliothek Vaihingen bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:61bc467b55148141",
@@ -2405,7 +2314,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Spielplatz.Innenstadt. Abenteuer. Das große Sommerbasteln in der Spielplatz Werkstatt. Kreative Ferien für kleine Entdecker.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:76d1d38c3f920c71",
@@ -2418,7 +2327,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Berimbao ist ein afrobrasilianischer Musikbogen. Das Instrument besteht aus einem gebogenen Holzstock, der mit einer Saite bespannt ist. Als Resonanzkörper dient ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5ad67bb909326fc5",
@@ -2431,7 +2340,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vom 20. August bis 5. September 2026 verwandelt sich die Stuttgarter Innenstadt zu einem stimmungsvollen Weindorf: Auf dem Markt- und Schillerplatz sowie in der ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ec5a0d6569a52a30",
@@ -2444,7 +2353,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Mindfulness – Workshop bietet Regeneration, mentale und körperliche Stärkung sowie Ruhe und Besinnung – Raum für neue Erkenntnisse. Lassen Sie die ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3dd9de719cf015c0",
@@ -2457,7 +2366,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4c9cf37a3b54e4c2",
@@ -2470,7 +2379,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Hans-Rehn-Stift: Supperstraße 28, 70563 Stuttgart",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:bcf9f2dd88975cce",
@@ -2483,7 +2392,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0c0ba3d7f444897c",
@@ -2496,7 +2405,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Meditieren Sie sich glücklich ins Wochenende  – Abspannen und Runterkommen!",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ec201e89c84d6a3b",
@@ -2509,7 +2418,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c0828fb5539d0641",
@@ -2522,7 +2431,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Internationaler Orgelsommer",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2cd56cdd64cd2a35",
@@ -2535,7 +2444,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ea72a5c99adff617",
@@ -2548,7 +2457,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Geschichte nur für dich in der Stadtteilbibliothek Neugereut.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:32da791ad2070eaf",
@@ -2561,7 +2470,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Regionalliga Südwest, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:cede1b15e655034e",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-22T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532347?p=sig%3Ay-sG7l9-QN0xblio%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488056",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d9b5a9753a90a484",
@@ -2574,7 +2496,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:161c06ff21bbdc3b",
@@ -2587,7 +2509,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:879026f41da84587",
+      "source": "stuttgart-official",
+      "title": "baseball: Stuttgart Reds - Bonn Capitals",
+      "start": "2026-08-22T17:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/baseball-stuttgart-reds-bonn-capitals-532281?p=sig%3ALCjrcG_G02Tz-Kgn%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487963",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eine Begegnung der Bundesliga, Play-Off-Viertelfinale, Herren.",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:74d43c28d57c0010",
@@ -2600,7 +2535,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4aba6934025cf64c",
@@ -2613,7 +2548,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b6582bd63ffbfe11",
@@ -2626,7 +2561,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:062e3b5e2a764a2d",
@@ -2639,7 +2574,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ce0d1bd58c413be3",
@@ -2652,7 +2587,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eucharistiefeier",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:42a9bfb6902c4111",
+      "source": "stuttgart-official",
+      "title": "Salvator - So. Eucharistiefeier",
+      "start": "2026-08-23T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/salvator-so.eucharistiefeier-529932?p=sig%3ADrhaYT8_xJNaDUE4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484832",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0e0a8ea0b2a49c29",
@@ -2665,7 +2613,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:62a2b6ea07c869b3",
@@ -2678,7 +2626,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c7c7c30b383fe5f1",
@@ -2691,7 +2639,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0c7aa14101b76926",
@@ -2704,7 +2652,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:c077992e6e2a6c52",
+      "source": "stuttgart-official",
+      "title": "Wortgottesfeier in Heilig Geist",
+      "start": "2026-08-23T07:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wortgottesfeier-in-heilig-geist-529863?p=sig%3AfnrpNPVsoOSR-kla%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484664",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3beec1c2b3026d38",
@@ -2717,20 +2678,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:a994f9cd64221aec",
+      "id": "stuttgart-official:ea421c6eb4620537",
       "source": "stuttgart-official",
       "title": "St. Josef - So. Ökumenischer Gottesdienst zum Kelterfest",
       "start": "2026-08-23T08:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/st.josef-so.kumenischer-gottesdienst-zum-kelterfest-529949?p=sig%3Ahp7ASrwuO0hiqSz4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484856",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/st.josef-so.oekumenischer-gottesdienst-zum-kelterfest-529949?p=sig%3Ahp7ASrwuO0hiqSz4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C484856",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0c713a868ea959b5",
@@ -2743,7 +2704,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d7a55e16f610c527",
@@ -2756,7 +2717,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5ef2f7ae607eb371",
@@ -2769,7 +2730,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:431b8509a4ab2c46",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier",
+      "start": "2026-08-23T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-532334?p=sig%3A0V09p3fQHB65XiaX%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488043",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4e6bbff519919ede",
@@ -2782,7 +2756,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0ff9c8fae399aa20",
@@ -2795,7 +2769,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:b9cdcfdd1dd7f852",
+      "source": "stuttgart-official",
+      "title": "Wortgottesdienst mit Kommunionfeier",
+      "start": "2026-08-23T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/wortgottesdienst-mit-kommunionfeier-531336?p=sig%3AdrUACVAdsVpoYPOY%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486681",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d981e1eb820b079e",
@@ -2808,7 +2795,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3e88e8acdfffc108",
@@ -2821,7 +2808,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b252e9c44d4f59aa",
@@ -2834,7 +2821,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Fühlen Sie sich im Alltag oft gestresst und möchten am liebsten nur noch  Ruhe haben?",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5b7772144a3c79da",
@@ -2847,7 +2834,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Erinnerungsort Hotel Silber bietet eine öffentliche Führung durch die Sonderausstellung \"Rechtsextremer Terror\" an. Der Rundgang beleuchtet ausgewählte Fälle ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:dc06301242552591",
@@ -2860,7 +2847,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:2b6bd169891b5427",
+      "source": "stuttgart-official",
+      "title": "Holy Mass",
+      "start": "2026-08-23T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/holy-mass-532350?p=sig%3AWdfT_EJ6w3-B6U8R%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488059",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eucharistiefeier in englischer Sprache",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:baa6db1322919cf5",
+      "source": "stuttgart-official",
+      "title": "Digital im Alter - Fit für das Internet",
+      "start": "2026-08-24T12:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/digital-im-alter-fit-fuer-das-internet-473539?p=sig%3AOY4-qcdQRvRrUrzn%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C398082",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die Stadtteilbibliothek Neugereut bietet alle zwei Wochen in einstündigen Einzelsprechstunden Hilfe für Seniorinnen und Senioren an.",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7146b18c610d873a",
@@ -2873,7 +2886,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Reihe: Bilderbuchshow in der Stadtteilbibliothek Stammheim",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:96227a6f191400b8",
@@ -2886,7 +2899,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sie haben Interesse an einer Solaranlage? Die SolarScouts Stuttgart zeigen Ihnen den Weg zu Ihrer eigenen PV-Anlage auf und beantworten Ihre Fragen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:41ae734129531935",
+      "source": "stuttgart-official",
+      "title": "Gottesdienst",
+      "start": "2026-08-25T15:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/gottesdienst-532342?p=sig%3ABqqDEMRsQuYWnRfV%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488051",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:532613be89156e7c",
@@ -2899,7 +2925,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen in der Stadtteilbibliothek Stammheim in der Reihe Shared Reading",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3bcd7b34a48119b3",
@@ -2912,7 +2938,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:8bcaaedd6574e28e",
@@ -2925,7 +2951,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem Onlinevortrag lernen Sie, wie Sie bei Gefühlsausbrüchen Ihres Kindes reagieren können und was im Alltag helfen kann, damit Ihr Kind seltener Wutanfälle ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:c68e1a5a67e04a9c",
+      "source": "stuttgart-official",
+      "title": "Gottesdienst",
+      "start": "2026-08-26T08:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/gottesdienst-532356?p=sig%3Axzs6MnD6mNav7clG%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488064",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:020c44a4f6062519",
@@ -2938,7 +2977,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vorlesen",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a2dc8ddb72841f26",
@@ -2951,20 +2990,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Schattentheater, Schauspiel und Figuren nach der Erzählung von Antoine de Saint-Éxupéry im Dreigroschentheater.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
-    },
-    {
-      "id": "stuttgart-official:3c80f7fd0a74e995",
-      "source": "stuttgart-official",
-      "title": "Eucharistiefeier",
-      "start": "2026-08-26T14:30:00+02:00",
-      "end": null,
-      "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-522957?p=sig%3AVPhM2sAbF9TaOMJW%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C447289",
-      "city": "Stuttgart",
-      "region": "Baden-Württemberg",
-      "description": "Die Eucharistiefeier ist alle Gläubigen der Gemeinde und alle haupt- und ehrenamtlichen Mitarbeitenden offen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d98edfa86647feb5",
@@ -2977,7 +3003,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Sonne ist der Stern des Lebens. \nOhne ihr Licht und ihre Wärme gäbe es auf der Erde kein Leben.\nDie Energiequelle unseres Daseins hat ein wahrhaft hitziges ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:665453d0f31f38a3",
@@ -2990,7 +3016,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6c6577dbf3431a9e",
@@ -3003,7 +3029,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Bundesliga, Herren. Der Spieltag wurde noch nicht fixiert.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:70b66960bef32ef3",
@@ -3016,7 +3042,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Spielplatz. Innenstadt. Abenteuer. Das große Sommerbasteln in der Spielplatz Werkstatt. Kreative Ferien für kleine Entdecker.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4c60610124971a66",
@@ -3029,7 +3055,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Für Bücherfreunde, Lesesüchtige und Menschen, die gerne zuhören.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:9514af9a999ca0f2",
+      "source": "stuttgart-official",
+      "title": "Das Fenster-Fest auf der Eberhardstraße",
+      "start": "2026-08-27T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/das-fenster-fest-auf-der-eberhardstrasse-532318?p=sig%3Am_MnTO3tC0YaPyLG%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487993",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Am 27. August wird das Hegel-Haus zur urbanen Aktionsfläche: Live-Performances aus den Fenstern, Jazz, Führungen sowie Licht & Sound erobern die Eberhardstraße. ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:d6b46337d2138a75",
+      "source": "stuttgart-official",
+      "title": "Freitagsgottesdienst",
+      "start": "2026-08-28T06:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/freitagsgottesdienst-532349?p=sig%3AsDRa8GOxxSA0pKHM%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488058",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d8e2d7db3b958144",
@@ -3042,7 +3094,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:248722c7560d563a",
@@ -3055,7 +3107,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:122363d827067fa5",
@@ -3068,7 +3120,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die Erfindung des ersten Planetariumsprojektors feiert seinen hundertsten Jahrestag. Im Auftrag des Deutschen Museums in München entwickelte die Firma Carl Zeiss in ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9bce1b952f22ff0a",
@@ -3081,7 +3133,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Minigolf, Aussicht und Live-Musik? Spitzenkombi dachten wir uns! Auch in diesem Sommer freuen wir uns über die schöne Kooperation mit dem Pop-Büro Region Stuttgart ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:aec15fc5130d40a9",
@@ -3094,7 +3146,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c95ac7070af098b5",
@@ -3107,7 +3159,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9e75fc8b4713c0d1",
@@ -3120,7 +3172,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:4210200cef9f3aba",
@@ -3133,7 +3185,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:397cef01d8645f6b",
@@ -3146,7 +3198,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Bundesliga, Frauen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9c9c01e4531b5ed3",
@@ -3159,7 +3211,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e767652867e1a9bb",
@@ -3172,7 +3224,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "An vier Spätsommerabenden wird der Park der Villa Berg zum Ort eines besonderen Kinoerlebnisses: Das Freiluftkino zeigt Filme der späten 1960er und frühen 1970er ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ed0ca4d07141f49d",
@@ -3185,7 +3237,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:461e1d516f0fbc6e",
@@ -3198,7 +3250,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:266d00f16ef10d0f",
@@ -3211,20 +3263,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
-      "id": "stuttgart-official:cc9bf02e0f395cf6",
+      "id": "stuttgart-official:335dad3f1c579a97",
       "source": "stuttgart-official",
       "title": "Ökumenischer Gottesdienst",
       "start": "2026-08-30T08:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
-      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/-kumenischer-gottesdienst-531241?p=sig%3AasOBehHXq4NBf-Nq%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486573",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/oekumenischer-gottesdienst-531241?p=sig%3AasOBehHXq4NBf-Nq%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C486573",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a92b678f7e1693b8",
@@ -3237,7 +3289,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:60637b63ec39f05b",
@@ -3250,7 +3302,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a04943a391d3e74b",
@@ -3263,7 +3315,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ec569dff49f34578",
@@ -3276,7 +3328,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:510145cdbd68f362",
@@ -3289,7 +3341,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:64e6037aac64a2fc",
@@ -3302,7 +3354,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3f7e6ac6d58f8272",
@@ -3315,7 +3367,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a17a713abff6a7b3",
@@ -3328,7 +3380,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Brasilianischer Tanzabend auf der Neckarinsel. Zum Start gibt es eine kurze Einführung in die Grundschritte, bevor die Tanzfläche für alle geöffnet wird.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1f475cfd196720e7",
@@ -3341,7 +3393,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:18f627a88a8bcb17",
@@ -3354,7 +3406,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:013ebae865693bc2",
@@ -3367,7 +3419,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:66e67b6f5ded9162",
@@ -3380,7 +3432,46 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Die ungewöhnliche Geschichte der Familie Wels, die vergessen werden sollte.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:05703df8736e8772",
+      "source": "stuttgart-official",
+      "title": "Gottesdienst",
+      "start": "2026-09-01T08:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/gottesdienst-532354?p=sig%3AGmw2sxTyC2WxqJcj%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488062",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:6dd0e24a97392640",
+      "source": "stuttgart-official",
+      "title": "Beichte",
+      "start": "2026-09-01T09:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/beichte-530420?p=sig%3Axe3FN6N_M1WiLGWf%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485631",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:9aa47482b839ab3e",
+      "source": "stuttgart-official",
+      "title": "Werktagsgottesdienst am Mittag",
+      "start": "2026-09-01T10:15:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/werktagsgottesdienst-am-mittag-530418?p=sig%3ATH15zMeh5LrUM8q4%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485633",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e5dddee230a537e5",
@@ -3393,7 +3484,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:fef963094ebe6345",
@@ -3406,7 +3497,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b34acd13fb5f3dfe",
@@ -3419,7 +3510,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "mit anschließendem Beisammensein",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:819b7c6cc40d66d4",
+      "source": "stuttgart-official",
+      "title": "Seniorengottesdienst",
+      "start": "2026-09-01T12:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/seniorengottesdienst-532359?p=sig%3A81urc5gnFUac8mEd%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488067",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "mit anschließendem Beisammensein",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:429122e79aa6b283",
@@ -3432,7 +3536,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Vortrag zu Vorsorgemöglichkeiten\n-Vorsorgevollmacht, Betreuungsverfügung, Patientenverfügung -\nim Gemeindepsychiatrischen Zentrum in Sillenbuch",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b956127053b1fffb",
@@ -3445,7 +3549,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f08c80ef6ebeb7f5",
@@ -3458,7 +3562,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c232a01cc5a99d64",
@@ -3471,7 +3575,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:90c0fc3e2361b9a3",
@@ -3484,7 +3588,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Seit mehr als 5 Jahren trifft sich der Offene Chor des Musikwerks Dienstags im Stadtpalais. Rund 100 Menschen kommen spontan oder regelmäßig vorbei, nehmen sich ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:92c3f2e116bc6d1b",
@@ -3497,7 +3601,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem Onlinevortrag erfahren Sie, was Kinder brauchen, um sicher aufzuwachsen und eine gute Bindung zu Ihren Eltern aufzubauen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d035557d9e1aaa81",
@@ -3510,7 +3614,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Elektronische Musik mit Live Visuals: Himmlisch",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:96543a98abee6ad4",
@@ -3523,7 +3627,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:607e394d6aec20ed",
@@ -3536,7 +3640,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:96b785a1bc3d6d7a",
@@ -3549,7 +3653,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Das Stadtarchiv ist ein Gedächtnis der Stadtgesellschaft und das Zentrum für Stadtgeschichte.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:6540beac16d230e6",
+      "source": "stuttgart-official",
+      "title": "Beichtgelegenheit mittwochs St. Michael",
+      "start": "2026-09-02T15:45:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/beichtgelegenheit-mittwochs-st.michael-532333?p=sig%3A0KKgvohG-WMK0iSQ%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488042",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:5c4b8eadc8109efa",
@@ -3562,7 +3679,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Picknickdecke ausbreiten, Lieblingssnack einpacken und den Sommer genießen: Die Picknickkonzerte mit dem Feierabendkollektiv laden wieder zu entspannten Abenden im ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:cf1b27d9da89c176",
@@ -3575,12 +3692,25 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:ad87c5cd0c293269",
+      "source": "stuttgart-official",
+      "title": "Werktagsgottesdienst am Abend",
+      "start": "2026-09-02T16:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/werktagsgottesdienst-am-abend-530421?p=sig%3AFBfqM_nkN9sMH1c7%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485632",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:24a43871c6ef6b58",
       "source": "stuttgart-official",
-      "title": "Eucharistie, anschl. KirchencafÃ",
+      "title": "Eucharistie, anschl. Kirchencafé",
       "start": "2026-09-03T07:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
@@ -3588,7 +3718,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:03e838a1b811a7f5",
@@ -3601,7 +3731,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1d2080532edd4a78",
@@ -3614,7 +3744,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Der Spielplatz.Innenstadt. Abenteuer. \nDas große Sommerbasteln in der Spielplatz Werkstatt.\nKreative Ferien für kleine Entdecker.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a6662d32b045941c",
@@ -3627,7 +3757,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Aktuell warten in Stuttgarter Grundschulen zahlreiche Kinder auf Unterstützung durch einen Menschen, der ihnen als Mentorin, als Mentor Zeit und Chancen schenkt. ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:d35456b26d8f6bda",
@@ -3640,7 +3770,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Aktuell warten in Stuttgarter Grundschulen zahlreiche Kinder auf Unterstützung durch einen Menschen, der ihnen als Mentorin, als Mentor Zeit und Chancen schenkt. ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3b3a90b3ba6351e0",
@@ -3653,7 +3783,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:593eb58ade62008c",
@@ -3666,7 +3796,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:29914407cdc9a9aa",
@@ -3679,7 +3809,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Wortgottesdienst im Altenheim",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:dafc0ee5a9326fde",
@@ -3692,7 +3822,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:87e6936f1499731d",
@@ -3705,7 +3835,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein mitreißender Strom aus Worten und Tönen\nVier Schauspieler*innen suchen auf dem Terrain der Dichtung, Musik, Philosophie und alltäglichen Unterhaltung nach dem ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:257abe0cbcb0c945",
@@ -3718,7 +3848,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßen Sie mit uns die neue Königin-Katharina-Orgel mit Konzerten und Führungen!\n\nTäglich vom 28. August bis zum 4. September 2026.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:59cc7f8020b441fd",
@@ -3731,7 +3861,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Begrüßungsfest Königin-Katharina-Orgel",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:aa4fb22af56b1fd7",
@@ -3744,7 +3874,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2ea83bbd03cba289",
@@ -3757,7 +3887,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:7aa57f75c8f7d813",
@@ -3770,7 +3900,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2e8f217532e0e8ce",
@@ -3783,7 +3913,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e6de821535001d9c",
@@ -3796,7 +3926,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Stunde der Kirchenmusik",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:827fccbf35e6ea09",
@@ -3809,7 +3939,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Simon Herkners multimediale Rauminstallation DEADPLATE Recording (Memorials) ist vom 04. bis 06. September im Projektraum zu sehen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:701f8717fdf27742",
@@ -3822,7 +3952,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Ein Tanztheater über Einsamkeit in Udo Jürgens’ Liedern\nO Solitude I von Katja Erdmann-Rajski",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:16994745a243027d",
@@ -3835,7 +3965,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Bundesliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0c2b09578fc534a5",
@@ -3848,7 +3978,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Bundesliga, Herren. Der Spieltag wurde noch nicht fixiert.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:89b43c0c242de052",
@@ -3861,7 +3991,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Zum ersten Mal kommt die weltweit größte Urban-Downhill-Mountainbike-Serie nach Deutschland.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:59e4d99c2095d28d",
@@ -3874,7 +4004,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der Regionalliga Südwest, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:0bd1b3e818945c10",
@@ -3887,7 +4017,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:aeddd82a96295525",
+      "source": "stuttgart-official",
+      "title": "Vorabendmesse // Eucharistiefeier in St. Augustinus",
+      "start": "2026-09-05T16:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/vorabendmesse-eucharistiefeier-in-st.augustinus-532327?p=sig%3AC9JRNheRFetPx5RN%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487997",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:a6d23c822d60ef20",
@@ -3900,7 +4043,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "An vier Spätsommerabenden wird der Park der Villa Berg zum Ort eines besonderen Kinoerlebnisses: Das Freiluftkino zeigt Filme der späten 1960er und frühen 1970er ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:1ff801c86d0d9454",
@@ -3912,8 +4055,34 @@
       "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-fuer-die-gesamtkirchengemeinde-531646?p=sig%3A_x0uxnxkbbTnwUOP%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487077",
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
-      "description": "Nach den Sommerferien 2026: Jeden 2. Sonntag im Monat Eucharistiefeier fÃ¼r die Gesamtkirchengemeinde Stuttgart-Vaihingen in Christus König.\nAm 4. Oktober gibt es ...",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "description": "Nach den Sommerferien 2026: Jeden 2. Sonntag im Monat Eucharistiefeier für die Gesamtkirchengemeinde Stuttgart-Vaihingen in Christus König.\nAm 4. Oktober gibt es ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:6172f92050c0bade",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier am Sonntag in St. Augustinus",
+      "start": "2026-09-06T07:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-sonntag-in-st.augustinus-532339?p=sig%3A-6RPV8VvHaTRYhEg%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488048",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:26f1322ce2a43aa7",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier in portugiesischer Sprache",
+      "start": "2026-09-06T07:15:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-in-portugiesischer-sprache-532343?p=sig%3AnFENpYl1nU8e10PK%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488052",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:44307e7d38d7010e",
@@ -3926,7 +4095,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:2fe0372f81421b91",
@@ -3939,7 +4108,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:b1d7a7556784d026",
@@ -3952,7 +4121,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:c8501fdc885adfd4",
@@ -3965,7 +4134,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:22d2f550b83f998d",
@@ -3978,7 +4147,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:f4a7ba1d40ff3056",
@@ -3991,7 +4160,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U17 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:48b0995db05eb18d",
@@ -4004,7 +4173,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Eine Begegnung der U19 DFB-Nachwuchsliga, Herren.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:3913e3cc727ca7c5",
@@ -4017,7 +4186,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Themenführung zum Europäischen Tag der jüdischen Kultur im Haus der Geschichte",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:652360c2f900dce7",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier am Sonntag",
+      "start": "2026-09-06T09:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-am-sonntag-530426?p=sig%3AD9ZhS3S3uwnPJuiS%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485639",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:ac09734a3e06e792",
@@ -4030,7 +4212,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Patrozinium Fest",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:a5fbd735b31dfd53",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier der Gemeinde St. Justin de Jacobis",
+      "start": "2026-09-06T11:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-der-gemeinde-st.justin-de-jacobis-532364?p=sig%3AtRsVJk79yBfBK8eU%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488072",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eucharistiefeier des Geez-Ritus",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:326e4dc7007b9a23",
@@ -4043,7 +4238,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Heimatgeschichtliche Ausstellung Untertürkheim, Luginsland und Rotenberg im Ortsmuseum Untertürkheim/Rotenberg",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:89eda71571e72ebd",
@@ -4056,7 +4251,20 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Sonderausstellung im Ortsmuseum im Alten Schulhaus, Rotenberg.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:262abf6e1fb1fcbe",
+      "source": "stuttgart-official",
+      "title": "Eucharistiefeier Slowakische Gemeinschaft",
+      "start": "2026-09-06T12:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/eucharistiefeier-slowakische-gemeinschaft-532363?p=sig%3AA2BVPyArRCy0hgLx%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C488071",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Eucharistiefeier",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:28151ebb02486b31",
@@ -4069,12 +4277,12 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Musikreihe immer Sonntags um 18:00 Uhr in den Sommerferien  Auferstehungskirche Rot, Stuttgart, Haldenrainstr. 200. Je nach Musik bei gutem Wetter im Kirchgarten",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:e63be456ff73b94f",
       "source": "stuttgart-official",
-      "title": "TaizéGebet am Sonntagabend",
+      "title": "Taizé-Gebet am Sonntagabend",
       "start": "2026-09-06T17:00:00+02:00",
       "end": null,
       "location": "Stuttgart",
@@ -4082,7 +4290,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:6b9aca77e7d87559",
@@ -4095,7 +4303,33 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Gesellschaft für Christlich-Jüdische Zusammenarbeit e.V.\nLiteraturvortrag von Prof. Dr. Anat Feinberg",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:46663c6874db829d",
+      "source": "stuttgart-official",
+      "title": "Rosenkranz",
+      "start": "2026-09-07T15:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/rosenkranz-530480?p=sig%3Ag0U_mywdt_3evD6J%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485878",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": null,
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:46cfc417ba27085e",
+      "source": "stuttgart-official",
+      "title": "Infoveranstaltung zur Asiatischen Tigermücke",
+      "start": "2026-09-07T17:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/infoveranstaltung-zur-asiatischen-tigermuecke-497588?p=sig%3ANze_7J98UlJS1tmH%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C424648",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Die Infoveranstaltung wird von der vom Gesundheitsamt beauftragten Fachfirma als Online-Termin jeden zweiten Montag von Juni bis September ab 19 Uhr angeboten. Nach ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:58ecdcf0b05f4cb0",
@@ -4108,7 +4342,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Entspannen und Auftanken! Alltagsstress, die Hektik und Trigger ganz einfach mit gekonnter Meditation auflösen.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:8ea34033e47f4c93",
@@ -4121,7 +4355,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": null,
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:9b43cc5092e65638",
@@ -4134,7 +4368,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Leben, Schicksal und Dichtung von Mascha Kaléko",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:848b6d612f02aed5",
@@ -4147,7 +4381,7 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "In diesem Onlinevortrag geht es um Möglichkeiten, wie Sie und Ihr Kind besser schlafen können.",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     },
     {
       "id": "stuttgart-official:dabf399cd210533f",
@@ -4160,7 +4394,59 @@
       "city": "Stuttgart",
       "region": "Baden-Württemberg",
       "description": "Tjark - Im Wizemann Halle",
-      "discovered_at": "2026-08-10T06:05:46.833583Z"
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:d216dd7df8f8a63e",
+      "source": "stuttgart-official",
+      "title": "Kinderfest zum Ferienabschluss",
+      "start": "2026-09-09T10:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/kinderfest-zum-ferienabschluss-532132?p=sig%3ArGOJzCkCpLy7WDOA%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487942",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Der Ferienabschluss wird wieder mit einem großen, bunten Fest im Unteren Schlossgarten gefeiert.",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:88be11a9bfb8ffc6",
+      "source": "stuttgart-official",
+      "title": "Rätselhafte Geheimnisse in der Stiftskirche - Vom Keller über die Orgel bis zum Turm",
+      "start": "2026-09-09T12:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/raetselhafte-geheimnisse-in-der-stiftskirche-vom-keller-ueber-die-orgel-bis-zum-turm-531743?p=sig%3A5ywow1E-kJCjy_el%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C487301",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Ferienprogramm für Kinder",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:aaee5f97173174a6",
+      "source": "stuttgart-official",
+      "title": "Sing.Impro.Stuttgart",
+      "start": "2026-09-09T17:30:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/sing.impro.stuttgart-530662?p=sig%3AxBxpETOKrOV7mRS9%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C485973",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Sing.Impro.Stuttgart ist ein offenes, kostenloses Angebot, um gemeinsam die Stimmen in improvisierter Musik des Moments zu erfahren. Es ist modelliert nach dem Vorbild ...",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
+    },
+    {
+      "id": "stuttgart-official:6d2b0b7f51a0d8b6",
+      "source": "stuttgart-official",
+      "title": "Mike Oldfield’s Tubular Bells",
+      "start": "2026-09-09T18:00:00+02:00",
+      "end": null,
+      "location": "Stuttgart",
+      "url": "https://www.stuttgart.de/veranstaltungskalender/veranstaltungen/mike-oldfield-s-tubular-bells-527193?p=sig%3AkomAyBwN0CkZ18Pj%2C1118%2C1561%2C%2Fservice%2Fveranstaltungen.php%2C481975",
+      "city": "Stuttgart",
+      "region": "Baden-Württemberg",
+      "description": "Mike Oldfield’s Tubular Bells -  Liederhalle Hegel-Saal",
+      "discovered_at": "2026-08-11T05:45:46.164547Z"
     }
   ]
 }
